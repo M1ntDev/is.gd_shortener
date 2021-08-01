@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/M1ntDev/is.gd_shortener.svg?branch=main)](https://travis-ci.com/M1ntDev/is.gd_shortener)  
+
 # is.gd Shortener
 
 **Deno module for is.gd URL shortener.**
